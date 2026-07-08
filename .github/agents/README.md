@@ -76,6 +76,7 @@ The Director deploys your chosen agents and synthesizes their findings into acti
 - Competitive benchmarks
 - Design patterns & conventions
 - User research insights
+- Market competitive analysis
 - Case studies & examples
 - Relevant guidelines (iOS, Android, web)
 
@@ -90,6 +91,7 @@ The Director deploys your chosen agents and synthesizes their findings into acti
 - Color theory & palette
 - Interactive states
 - Responsive behavior
+- Competitive design pattern analysis
 
 ### Copywriter Agent
 **When to use:** Polishing messaging and brand voice
@@ -101,6 +103,22 @@ The Director deploys your chosen agents and synthesizes their findings into acti
 - Error messaging
 - Confirmation messages
 - Terminology consistency
+
+### AI-First Design Agent
+**When to use:** Designing AI-powered or AI-first products
+
+**Covers:**
+- AI capability communication
+- Accuracy & confidence handling
+- Human-AI collaboration patterns
+- Explainability & transparency
+- Trust building
+- Feedback loops & learning
+- User control & override options
+- Bias & fairness awareness
+- Failure mode handling
+- Onboarding for AI workflows
+- Data consent & privacy
 
 ### Design-Thinking Agent
 **When to use:** Exploring user needs and alternative solutions
